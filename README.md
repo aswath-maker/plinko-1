@@ -1,2 +1,2 @@
-# plinko-1
-this repository is still not completed.
+# p5.play-boilerplate
+Boiler plate for p5.play
